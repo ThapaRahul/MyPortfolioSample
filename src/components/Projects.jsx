@@ -24,11 +24,11 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/slotGameImage.JPG)" }}
+                  style={{ backgroundImage: "url(images/VuShares.JPG)" }}
                 >
                   <div className="desc">
                     <div className="con">
-                      <h1>Slot Game Machine</h1>
+                      <h1>VuShares</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"

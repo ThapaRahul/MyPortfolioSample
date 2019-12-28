@@ -17,20 +17,15 @@ class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a graduate student currently pursuing my Master’s
-                        in Software Engineering at Villanova University. I am in
-                        my final semester right now and looking for a full-time
-                        or internship opportunities.
+                        I am an undergraduate computer science student at Villanova University. Currently, I am a Junior and am actively looking
+                        for an internship Opportunity. 
                       </p>
                       <p>
-                        I am a dedicated and enthusiastic professional who loves
-                        programming. I have 3+ years of experience as a Software
-                        Engineer/ Web Developer. I am very keen to work in a
-                        professional environment with industry leaders and learn
-                        from them as well. I want to be a part of the product
-                        that really matters and open to pick up any technology
-                        stack if necessary. I have skills in the following
-                        related technologies.{" "}
+                        I love problem solving. The area of computer science that I have spent most time on in 
+                        machine learning and data science. Currently, I am immersing myself into full stack development.
+                        I am passionate about learning new skills and technologies. Therefore, I am open to pushing myself
+                        out of my comfort zone and trying out new things. I like to expand the horizon of my knowledge
+                        by taking courses on online platforms such as Udemy and Coursera.{" "}
                       </p>
                     </div>
                   </div>
@@ -57,12 +52,13 @@ class About extends Component {
                     <i className="icon-bulb" />
                   </span>
                   <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>Data Science </h3>
                     <p>
-                      I have experience building websites using
-                      JavaScript(FrontEnd- React.js) and BackEnd(Node.js) I have
-                      also experience in deploying the website using Heroku and
-                      AWS.
+                      I have worked for over a year as a research assistant in Physics department at Villanova University. During my research, I
+                      extensively used Python's packages such as Matplotlib, Pandas, Seaborn, 
+                      AplPy, numpy, and sckit-learn to analysize and visualize. In the summer of 2019, I worked
+                      as a machine learning intern at University of California Irvine where I developed a machine learning model
+                      to predict capture-to-control delay in automated UAV systems such as drones. 
                     </p>
                   </div>
                 </div>
@@ -75,9 +71,10 @@ class About extends Component {
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
                     <p>
-                      I have a good grasp of the fundamentals of DSA and used to
-                      teach DSA to undergraduate students at Villanova
-                      University.
+                      I have a good grasp of the fundamentals of Data Structures and Algorithms. I have taken Data Structurs and Algorithms
+                      series courses at Villanova University. This upcoming semester, I am also taking a course of Design and Analysis of 
+                      algorithm. At Villanova University, I also work as a peer tutor. As a CS tutor, I help Freshman and Sophomores with 
+                      Algorithms and Data Structures class assignments and projects.  
                     </p>
                   </div>
                 </div>
@@ -88,11 +85,13 @@ class About extends Component {
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>Software Engineering/Database</h3>
+                    <h3>Web Development</h3>
                     <p>
-                      I also have knowledge of how the software should be
-                      developed beginning from the requirement phase to the
-                      deployment phase.
+                      Web Development is relatively new skill that I have gained. I have made few basic web applications such as robo
+                      friends and smart brain. The link to the applications are given in the project section below. Most recently, I am 
+                      working on creating an online platform called VuShares, which is also my startup. This platform will allow 
+                      Villanova community to buy and sell unwanted items, and also exchange services directly within the community. 
+                      I am using reach for frontend and node for backend. HTML is used for content and CSS/Bootstrap is used for styling.  
                     </p>
                   </div>
                 </div>
