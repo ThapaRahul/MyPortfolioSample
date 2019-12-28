@@ -24,7 +24,7 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/VuShares.JPG)" }}
+                  style={{ backgroundImage: "url(images/VuShares.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
@@ -32,7 +32,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/SlotGameWithImages"
+                          href="https://github.com/ThapaRahul/VuShares_Platform_Based_Computing"
                           target="_blank"
                           rel="noopener noreferrer"
                         >

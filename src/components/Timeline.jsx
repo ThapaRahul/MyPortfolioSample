@@ -28,17 +28,17 @@ class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Graduate Assistant at Villanova University{" "}
-                          <span>August 2017-present</span>
+                          Bachelors of Science in Computer Science at Villanova University{" "}
+                          <span>August 2017-May 2021</span>
                         </h2>
                         <p>
-                          I joined Villanova University as a Graduate student in
-                          2017 and is graduating at the end of this year. I am
-                          pursuing my Masters in Software Engineering here.I
-                          have taken courses like Software Engineering, Database
-                          Management System, Requirement Engineering, Software
-                          Design & Evolution, Software Studio and some othere
-                          courses here. Currently, my GPA is 3.74.
+                          Currently, I have a 4.0 GPA across all courses. Some of the courses I have taken are Machine Learning, Deep Learning, 
+                          Platform Based Computing, Algorithms and Data Structures, Database Systems.
+                          At Villanova, I am a part of ACM student chapter and programming team. 
+                          I participate in hackathons happening on campus. The most recent hackathon I participated in was a Blockchain hackathon
+                          organized by R3 and Villanova School of Engineering. I am also starting my online startup business called VuShares. 
+                          This venture is being funded by Villanova ICE Innovation fund. 
+                          Additionally, I am also an Honors Ambassador, Resident Assistant, and president of Villanova Table Tennis Club. 
                         </p>
                       </div>
                     </div>
@@ -53,17 +53,14 @@ class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Undergraduation from Tribhuvan University(Nepal)
-                          <span>2011-2015</span>
+                          Higher Secondary Education at SOS Hermann Gmeiner School Bharatpur, Nepal
+                          <span>2013-2015</span>
                         </h2>
                         <p>
-                          I finished my Undergradaute in 2015 majoring in
-                          Electronics & Communication Engineering. I took
-                          courses like C,C++,Microprocessor, Digitial Signal
-                          Processing. I was also leading member of the
-                          Electronics Engineering Society. I also was part of
-                          Robotics Association of Nepal which is a non-profit
-                          organization during my final year. My GPA was 3.7.
+                          My focus during my high school was on science and mathematics. I took college level physics, chemistry and 
+                          math courses. My unweighted GPA was 4.0. While at high school, I was part of Chitwan Leo club and Global Peace Young leaders.
+                          Through this club, I organized various community service events such as Busking and shoe polishing campaigns
+                          to help flood victims. 
                         </p>
                       </div>
                     </div>
