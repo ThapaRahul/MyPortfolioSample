@@ -19,7 +19,7 @@ class Sidebar extends Component {
             <div className="text-center">
               <div
                 className="author-img"
-                style={{ backgroundImage: "url(images/image.jpg)" }}
+                style={{ backgroundImage: "url(images/headShot.jpg)" }}
               />
               <h1 id="colorlib-logo">
                 <a href="index.html">Rahul Thapa</a>
@@ -70,7 +70,7 @@ class Sidebar extends Component {
                     <i className="icon-facebook2" />
                   </a>
                 </li> */}
-                <li>
+                {/* <li>
                   <a
                     href="https://twitter.com/Pourush29"
                     target="_blank"
@@ -78,11 +78,11 @@ class Sidebar extends Component {
                   >
                     <i className="icon-twitter2" />
                   </a>
-                </li>
+                </li> */}
 
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/pourush-shrestha/"
+                    href="https://www.linkedin.com/in/rahul-thapa-095022129/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -91,7 +91,7 @@ class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/Pourush1"
+                    href="https://github.com/ThapaRahul"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

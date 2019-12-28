@@ -11,7 +11,7 @@ class Introduction extends Component {
         >
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: "url(images/photo.jpg)" }}>
+              <li style={{ backgroundImage: "url(images/Background1.jpg)" }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -39,7 +39,7 @@ class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{ backgroundImage: "url(images/test.jpg)" }}>
+              <li style={{ backgroundImage: "url(images/Background2.jpg)" }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
