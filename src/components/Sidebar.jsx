@@ -22,10 +22,10 @@ class Sidebar extends Component {
                 style={{ backgroundImage: "url(images/image.jpg)" }}
               />
               <h1 id="colorlib-logo">
-                <a href="index.html">Pourush Shrestha</a>
+                <a href="index.html">Rahul Thapa</a>
               </h1>
               <span className="email">
-                <i className="icon-mail" /> pshrest3@villanova.edu
+                <i className="icon-mail" /><a href="mailto:rthapa@villanova.edu"> rthapa@villanova.edu </a>
               </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
