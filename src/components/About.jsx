@@ -32,7 +32,7 @@ class About extends Component {
 
                       <p>
                       In the summer of my Sophomore year, I worked as a machine learning intern at the University of California. That summer,
-                      I worked on creating a machine learning model using Recurrent Neural Network to predict a caputre-to-control delay in 
+                      I worked on creating a machine learning model using Recurrent Neural Network to predict a capture-to-control delay in 
                       automated UAV systems such as drones. I learned a full cycle of machine learning modeling, starting from data collection 
                       to cleaning, feature extraction, selection, modeling, and testing.
                       </p>
