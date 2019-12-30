@@ -20,7 +20,7 @@ class Introduction extends Component {
                         <div className="desc">
                           <h1>
                             Hi! <br />
-                            I'm Rahul
+                            I'm Rahul.
                           </h1>
                           <p>
                             <a
@@ -47,7 +47,7 @@ class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>
-                            I love Problem Solving !
+                            I love Solving Problems !
                             <br />
                           </h1>
                           <p>
