@@ -17,15 +17,37 @@ class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am an undergraduate computer science student at Villanova University. Currently, I am a Junior and am actively looking
-                        for an internship Opportunity. 
-                      </p>
+                      I came to college as a physics major. In the summer of my Freshman year, I worked at Villanova University as a 
+                      Research Assistant in a Physics Lab. Even though it was physics research, my role extensively involved coding in Python.
+                      I did a lot of modeling, data analysis, and visualization using python's packages such as APLpy, Matplotlib, Pandas, and
+                      Seaborn. I fell in love with being able to solve a complicated problem via coding. Therefore, I decided to switch my major
+                      to computer science in the Fall of 2018.</p>
+
                       <p>
-                        I love problem solving. The area of computer science that I have spent most time on in 
-                        machine learning and data science. Currently, I am immersing myself into full stack development.
-                        I am passionate about learning new skills and technologies. Therefore, I am open to pushing myself
-                        out of my comfort zone and trying out new things. I like to expand the horizon of my knowledge
-                        by taking courses on online platforms such as Udemy and Coursera.{" "}
+                      Since I continued my journey officially as a CS student a year later than my peers, I had to work twice as hard to catch 
+                      up with them. Along with overloading CS courses, I started taking online courses on my own. So far, I have taken courses on 
+                      Data Science and Machine learning via Coursera and a course on Web Development via Udemy. I believe expanding knowledge 
+                      through self-learning is extremely crucial to being a good developer.
+                      </p>
+
+                      <p>
+                      In the summer of my Sophomore year, I worked as a machine learning intern at the University of California. That summer,
+                      I worked on creating a machine learning model using Recurrent Neural Network to predict a caputre-to-control delay in 
+                      automated UAV systems such as drones. I learned a full cycle of machine learning modeling, starting from data collection 
+                      to cleaning, feature extraction, selection, modeling, and testing.
+                      </p>
+
+                      <p>
+                      Apart from courses, I love doing my own small projects throughout the year. My most recent venture involves a small startup 
+                      that I started with another graduate student here at Villanova. We are building an online platform called VuShares that 
+                      allows the Villanova community to buy and sell unused dormitory items as well as other services directly. We were recently 
+                      awarded an Innovation fund by Villanova ICE center to support our venture.
+                      </p>
+
+                      <p>
+                      Apart from coding, I love indulging myself in music. I find myself singing and playing guitar whenever I am stressed out. 
+                      I see an interesting crossover between my career path and music. Both challenges me to be more creative, hardworking, 
+                      organized, and passionate. 
                       </p>
                     </div>
                   </div>
