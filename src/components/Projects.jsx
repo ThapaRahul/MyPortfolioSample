@@ -62,7 +62,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/RoboApp"
+                          href="https://github.com/ThapaRahul/Robofriend-React-App"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -97,7 +97,7 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/colorGame.JPG)" }}
+                  style={{ backgroundImage: "url(images/Ewaste.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
@@ -105,7 +105,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/ColorGame"
+                          href="https://github.com/ThapaRahul/Database_Spring2019_FinalProject"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -143,7 +143,7 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/jumble.JPG)" }}
+                  style={{ backgroundImage: "url(images/BandOverMap.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
@@ -172,7 +172,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/Jumble"
+                          href="https://github.com/ThapaRahul/BandOverMap_SummerResearch2018"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -189,7 +189,7 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/bouncingBalls.JPG)" }}
+                  style={{ backgroundImage: "url(images/HRO.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
@@ -218,7 +218,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/Bouncing-Balls"
+                          href="https://github.com/ThapaRahul/HRO_SummerResearch2018"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -235,7 +235,7 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/superHeterodyne.JPG)" }}
+                  style={{ backgroundImage: "url(images/BlackJack.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
@@ -264,7 +264,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/SuperHeterodyneProject"
+                          href="https://github.com/ThapaRahul/BlackJack_With_DeckAPI"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
