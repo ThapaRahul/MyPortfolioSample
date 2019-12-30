@@ -101,7 +101,7 @@ class Projects extends Component {
                 >
                   <div className="desc">
                     <div className="con">
-                      <h1>Color Game</h1>
+                      <h1>Ewaste Management Database</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
@@ -168,7 +168,7 @@ class Projects extends Component {
                           </a>
                         </span>
                       </p> */}
-                      <h1>Jumble Game</h1>
+                      <h1>Band Over Map</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
@@ -214,7 +214,7 @@ class Projects extends Component {
                           </a>
                         </span>
                       </p> */}
-                      <h1>Bouncing Balls</h1>
+                      <h1>HRO</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
@@ -260,7 +260,7 @@ class Projects extends Component {
                           </a>
                         </span>
                       </p> */}
-                      <h1>SuperHeterodyne Receiver Simulation Software</h1>
+                      <h1>BlackJack</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
