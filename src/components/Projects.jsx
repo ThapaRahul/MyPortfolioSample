@@ -54,7 +54,7 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/roboSearch.JPG)" }}
+                  style={{ backgroundImage: "url(images/RoboFriends.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
@@ -62,7 +62,7 @@ class Projects extends Component {
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/ThapaRahul/Robofriend-React-App"
+                          href="https://github.com/ThapaRahul/Robofriends_React_App"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
